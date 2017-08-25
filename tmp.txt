@@ -1,3 +1,5 @@
+A
+
 commit 6c76bb7a6330983c7e564681180e692dc6c357a1
 Author: Thomas Tan <test@huawei.com>
 Date:   Thu Aug 10 09:25:36 2017 +0800
